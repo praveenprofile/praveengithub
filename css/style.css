@@ -1,0 +1,108 @@
+
+body{margin:0;padding:0;text-decoration:none !important;}
+.main {
+    margin: 0 auto;
+    box-shadow: 0px 1px 10px #4e4949;
+    width: 380px;
+    margin-top: 22px;
+    background-color: #000;
+    border-radius: 5px;
+}
+.social-links a .fa-facebook{background-color:#32529f;}
+.social-links a .fa-instagram{background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);}
+.social-links a .fa-linkedin{background-color:#0077b5;}
+.social-links a .fa-whatsapp{background-color:green;}
+.social-links a i {
+    border: 2px solid;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    line-height: 37px;
+    text-align: center;
+    display: block;
+    margin-bottom: 10px;
+    color: #fff;
+    font-weight: 500;
+    text-decoration: none !important;
+}
+.social-links{
+    float: right;
+    margin-top:10px;
+}
+.username h2 {
+    font-size:17px;
+    color: #fff;
+    letter-spacing:2px;
+}
+.username small {
+    margin-left: 15px;
+    font-size: 15px;
+}
+.username p{
+    color: #fff;
+    letter-spacing: 1px;
+    font-size: 20px;
+}
+.mt-0{margin:0 !important;padding:0 !important;}
+.user-pic img {
+    width: 380px;
+    margin-left: -15px;
+}
+.username{
+    background-color: #a93e3e;
+    padding: 28px;
+    margin-left: -15px;
+    width: 380px;
+    height:210px;
+}
+.username a {
+    background-color: #fff;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    padding: 6px 10px;
+    color: #000;
+    margin-bottom: 20px;
+    display: inline-block;
+    text-decoration: none !important;
+}
+.username a:hover{background-color:#0077b5;color:#fff;text-decoration: none;transition: all .8s ease;}
+.username a i{
+    margin-right:7px;
+}
+.about {
+    background-color: #fff;
+    padding: 5px;
+    border-bottom: 1px solid #ccc;
+}
+.panel-title i {
+    font-size: 20px;
+    color: #000;
+    margin-left:15px;
+}
+.panel-title span{    
+    font-size: 18px;
+    color: #000;
+    margin-left:20px;
+    text-decoration: none !important;
+}
+.panel-title a:hover{text-decoration:none !important;}
+.panel-title strong i {
+    float: right;
+    font-size: 26px;
+    margin-top: 5px;
+    margin-right: 20px;
+}   
+.panel-body{margin:10px;padding:0 !important;border-bottom:1px solid#ccc;}
+.mt-0P{margin:0 !important;padding:0 !important;}
+#accordion{background-color:#fff;}
+.panel-heading {
+    border-bottom: 1px solid #ddd;
+}
+.panel-body b{margin-left:20px;}
+.panel-body span{
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 5px 8px;
+    margin-top: 10px;
+    display: block;
+}
